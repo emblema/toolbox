@@ -1,0 +1,7 @@
+# api
+/api/node_modules
+
+# front
+/front/node_modules
+/front/build
+/front/dist
